@@ -9,5 +9,5 @@
  # Blue    - 34
  # magenta - 35
  # cyan     - 36
- echo -e "\e[31 This text in Red color \e[0m"
- echo -e "\e[34 This text in Blue color \e[0m"
+ echo -e "\e[31m This text in Red color \e[0m"
+ echo -e "\e[34m This text in Blue color \e[0m"
